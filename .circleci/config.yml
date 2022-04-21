@@ -38,7 +38,7 @@ jobs:
             git config user.name "dax-bot"
             git add .
             git commit -m "adds/updates sprites - $(date --utc)"
-            git push
+            git status | grep -q modified && git push
 workflows:
   package-and-upload-chart:
     jobs:
