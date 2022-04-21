@@ -1,0 +1,48 @@
+version: 2.1
+
+executors:
+  spritezero:
+    docker:
+    - image: openftth/spritezero-cli:v1.1.0
+      auth:
+        username: $DOCKER_LOGIN
+        password: $DOCKER_ACCESSTOKEN
+
+jobs:
+  create-sprites:
+    executor: spritezero
+    steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - ""
+      - run:
+          name: key-scan
+          command: ssh-keyscan github.com >> ~/.ssh/known_hosts
+      - run:
+          name: create sprites
+          command: |
+            spritezero --ratio=1 'sprites' './source'
+            spritezero --ratio=2 'sprites2x' './source'
+            spritezero --ratio=3 'sprites3x' './source'
+      - run:
+          name: move files to sprites
+          command: |
+            rm -rf sprites
+            mkdir sprites
+            mv *.json *.png ./sprites
+      - run:
+          name: push changes
+          command: |
+            git config user.email "admin@dax.dk"
+            git config user.name "dax-bot"
+            git add .
+            git commit -m "adds/updates sprites - $(date --utc)"
+            git push
+workflows:
+  package-and-upload-chart:
+    jobs:
+      - create-sprites:
+          filters:
+            branches:
+              only:
