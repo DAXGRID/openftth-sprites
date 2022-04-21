@@ -23,8 +23,8 @@ jobs:
           name: create sprites
           command: |
             spritezero --ratio=1 'sprites' './source'
-            spritezero --ratio=2 'sprites2x' './source'
-            spritezero --ratio=3 'sprites3x' './source'
+            spritezero --ratio=2 'sprites@2x' './source'
+            spritezero --ratio=3 'sprites@3x' './source'
       - run:
           name: move files to sprites
           command: |
