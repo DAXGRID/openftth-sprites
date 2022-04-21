@@ -1,0 +1,72 @@
+{
+  "cabinet-big": {
+    "height": 54,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "cabinet-big-highlight": {
+    "height": 54,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 50,
+    "y": 0
+  },
+  "cabinet-small": {
+    "height": 46,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 100,
+    "y": 0
+  },
+  "cabinet-small-highlight": {
+    "height": 46,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 130,
+    "y": 0
+  },
+  "central-office-small": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 90,
+    "x": 0,
+    "y": 54
+  },
+  "central-office-small-highlight": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 90,
+    "x": 90,
+    "y": 54
+  },
+  "conduit-closure": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 100,
+    "y": 102
+  },
+  "conduit-closure-highlight": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 140,
+    "y": 102
+  },
+  "hand-hole": {
+    "height": 46,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 0,
+    "y": 102
+  },
+  "hand-hole-highlight": {
+    "height": 46,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 50,
+    "y": 102
+  }
+}
