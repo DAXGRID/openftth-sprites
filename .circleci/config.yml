@@ -37,8 +37,9 @@ jobs:
             git config user.email "admin@dax.dk"
             git config user.name "dax-bot"
             git add .
-            git commit -m "adds/updates sprites - $(date --utc)"
-            git status | grep -q modified && git push
+            git status | grep -q modified && \
+                git commit -m "adds/updates sprites - $(date --utc)" && \
+                git push
 workflows:
   package-and-upload-chart:
     jobs:
