@@ -3,70 +3,140 @@
     "height": 81,
     "pixelRatio": 3,
     "width": 75,
-    "x": 0,
-    "y": 0
+    "x": 600,
+    "y": 600
   },
   "cabinet-big-highlight": {
     "height": 81,
     "pixelRatio": 3,
     "width": 75,
-    "x": 75,
-    "y": 0
+    "x": 675,
+    "y": 600
   },
   "cabinet-small": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 150,
-    "y": 0
+    "x": 1020,
+    "y": 600
   },
   "cabinet-small-highlight": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 195,
-    "y": 0
+    "x": 1065,
+    "y": 600
   },
   "central-office-small": {
     "height": 72,
     "pixelRatio": 3,
     "width": 135,
-    "x": 0,
-    "y": 81
+    "x": 750,
+    "y": 600
   },
   "central-office-small-highlight": {
     "height": 72,
     "pixelRatio": 3,
     "width": 135,
-    "x": 135,
-    "y": 81
+    "x": 885,
+    "y": 600
+  },
+  "circle-2": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "circle-3": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 300,
+    "y": 0
+  },
+  "circle-with-m-1": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 0,
+    "y": 300
   },
   "conduit-closure": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 150,
-    "y": 153
+    "x": 75,
+    "y": 900
   },
   "conduit-closure-highlight": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 210,
-    "y": 153
+    "x": 135,
+    "y": 900
+  },
+  "drain-1": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 300,
+    "y": 300
+  },
+  "drain-2": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 600,
+    "y": 0
   },
   "hand-hole": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 0,
-    "y": 153
+    "x": 1110,
+    "y": 600
   },
   "hand-hole-highlight": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 75,
-    "y": 153
+    "x": 0,
+    "y": 900
+  },
+  "house-1": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 900,
+    "y": 0
+  },
+  "house-2": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 600,
+    "y": 300
+  },
+  "house-3": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 900,
+    "y": 300
+  },
+  "house-4": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 0,
+    "y": 600
+  },
+  "spiral-1": {
+    "height": 300,
+    "pixelRatio": 3,
+    "width": 300,
+    "x": 300,
+    "y": 600
   }
 }
