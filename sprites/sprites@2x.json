@@ -3,140 +3,140 @@
     "height": 54,
     "pixelRatio": 2,
     "width": 50,
-    "x": 400,
-    "y": 400
+    "x": 0,
+    "y": 0
   },
   "cabinet-big-highlight": {
     "height": 54,
     "pixelRatio": 2,
     "width": 50,
-    "x": 450,
-    "y": 400
+    "x": 50,
+    "y": 0
   },
   "cabinet-small": {
     "height": 46,
     "pixelRatio": 2,
     "width": 30,
-    "x": 680,
-    "y": 400
+    "x": 180,
+    "y": 54
   },
   "cabinet-small-highlight": {
     "height": 46,
     "pixelRatio": 2,
     "width": 30,
-    "x": 710,
-    "y": 400
+    "x": 210,
+    "y": 54
   },
   "central-office-small": {
     "height": 48,
     "pixelRatio": 2,
     "width": 90,
-    "x": 500,
-    "y": 400
+    "x": 0,
+    "y": 54
   },
   "central-office-small-highlight": {
     "height": 48,
     "pixelRatio": 2,
     "width": 90,
-    "x": 590,
-    "y": 400
+    "x": 90,
+    "y": 54
   },
   "circle-2": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 0,
+    "width": 48,
+    "x": 100,
     "y": 0
   },
   "circle-3": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 200,
+    "width": 48,
+    "x": 148,
     "y": 0
   },
   "circle-with-m-1": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
+    "width": 48,
     "x": 0,
-    "y": 200
+    "y": 102
   },
   "conduit-closure": {
     "height": 24,
     "pixelRatio": 2,
     "width": 40,
-    "x": 50,
-    "y": 600
+    "x": 340,
+    "y": 54
   },
   "conduit-closure-highlight": {
     "height": 24,
     "pixelRatio": 2,
     "width": 40,
-    "x": 90,
-    "y": 600
+    "x": 192,
+    "y": 102
   },
   "drain-1": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 200,
-    "y": 200
+    "width": 48,
+    "x": 48,
+    "y": 102
   },
   "drain-2": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 400,
-    "y": 0
+    "width": 48,
+    "x": 96,
+    "y": 102
   },
   "hand-hole": {
     "height": 46,
     "pixelRatio": 2,
     "width": 50,
-    "x": 740,
-    "y": 400
+    "x": 240,
+    "y": 54
   },
   "hand-hole-highlight": {
     "height": 46,
     "pixelRatio": 2,
     "width": 50,
-    "x": 0,
-    "y": 600
+    "x": 290,
+    "y": 54
   },
   "house-1": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 600,
-    "y": 0
+    "width": 48,
+    "x": 144,
+    "y": 102
   },
   "house-2": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 400,
-    "y": 200
+    "width": 48,
+    "x": 0,
+    "y": 150
   },
   "house-3": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 600,
-    "y": 200
+    "width": 48,
+    "x": 48,
+    "y": 150
   },
   "house-4": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 0,
-    "y": 400
+    "width": 48,
+    "x": 96,
+    "y": 150
   },
   "spiral-1": {
-    "height": 200,
+    "height": 48,
     "pixelRatio": 2,
-    "width": 200,
-    "x": 200,
-    "y": 400
+    "width": 48,
+    "x": 144,
+    "y": 150
   }
 }
