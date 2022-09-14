@@ -17,15 +17,15 @@
     "height": 23,
     "pixelRatio": 1,
     "width": 15,
-    "x": 162,
-    "y": 27
+    "x": 168,
+    "y": 51
   },
   "cabinet-small-highlight": {
     "height": 23,
     "pixelRatio": 1,
     "width": 15,
-    "x": 177,
-    "y": 27
+    "x": 183,
+    "y": 51
   },
   "central-office-small": {
     "height": 24,
@@ -74,14 +74,14 @@
     "pixelRatio": 1,
     "width": 20,
     "x": 146,
-    "y": 51
+    "y": 75
   },
   "conduit-closure-highlight": {
     "height": 12,
     "pixelRatio": 1,
     "width": 20,
     "x": 166,
-    "y": 51
+    "y": 75
   },
   "drain-1": {
     "height": 24,
@@ -102,14 +102,14 @@
     "pixelRatio": 1,
     "width": 25,
     "x": 96,
-    "y": 51
+    "y": 75
   },
   "hand-hole-highlight": {
     "height": 23,
     "pixelRatio": 1,
     "width": 25,
     "x": 121,
-    "y": 51
+    "y": 75
   },
   "house-1": {
     "height": 24,
@@ -118,46 +118,74 @@
     "x": 0,
     "y": 75
   },
-  "house-1-highlight": {
+  "house-1-gray": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 24,
     "y": 75
   },
-  "house-2": {
+  "house-1-gray-highlight": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 48,
     "y": 75
   },
-  "house-3": {
+  "house-1-highlight": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 72,
     "y": 75
   },
-  "house-4": {
+  "house-1-olive": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 90,
     "y": 27
   },
-  "spiral-1": {
+  "house-1-olive-highlight": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 114,
     "y": 27
   },
-  "spiral-1-highlight": {
+  "house-2": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 138,
     "y": 27
+  },
+  "house-3": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 162,
+    "y": 27
+  },
+  "house-4": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 96,
+    "y": 51
+  },
+  "spiral-1": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 120,
+    "y": 51
+  },
+  "spiral-1-highlight": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 144,
+    "y": 51
   }
 }
