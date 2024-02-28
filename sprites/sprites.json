@@ -24,22 +24,22 @@
     "height": 23,
     "pixelRatio": 1,
     "width": 15,
-    "x": 144,
-    "y": 101
+    "x": 0,
+    "y": 125
   },
   "cabinet-small-highlight": {
     "height": 23,
     "pixelRatio": 1,
     "width": 15,
-    "x": 159,
-    "y": 101
+    "x": 15,
+    "y": 125
   },
   "cabinet-small-purple": {
     "height": 23,
     "pixelRatio": 1,
     "width": 15,
-    "x": 174,
-    "y": 101
+    "x": 30,
+    "y": 125
   },
   "central-office-small": {
     "height": 24,
@@ -87,21 +87,21 @@
     "height": 12,
     "pixelRatio": 1,
     "width": 20,
-    "x": 75,
+    "x": 120,
     "y": 125
   },
   "conduit-closure-highlight": {
     "height": 12,
     "pixelRatio": 1,
     "width": 20,
-    "x": 95,
+    "x": 140,
     "y": 125
   },
   "conduit-closure-purple": {
     "height": 12,
     "pixelRatio": 1,
     "width": 20,
-    "x": 115,
+    "x": 160,
     "y": 125
   },
   "drain-1": {
@@ -122,21 +122,21 @@
     "height": 23,
     "pixelRatio": 1,
     "width": 25,
-    "x": 0,
+    "x": 45,
     "y": 125
   },
   "hand-hole-highlight": {
     "height": 23,
     "pixelRatio": 1,
     "width": 25,
-    "x": 25,
+    "x": 70,
     "y": 125
   },
   "hand-hole-purple": {
     "height": 23,
     "pixelRatio": 1,
     "width": 25,
-    "x": 50,
+    "x": 95,
     "y": 125
   },
   "house-1": {
@@ -209,46 +209,60 @@
     "x": 0,
     "y": 0
   },
-  "spiral-1": {
+  "questionmark-black": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 0,
     "y": 101
   },
-  "spiral-1-highlight": {
+  "spiral-1": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 24,
     "y": 101
   },
-  "spiral-1-purple": {
+  "spiral-1-highlight": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 48,
     "y": 101
   },
-  "splice-closure": {
+  "spiral-1-purple": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 72,
     "y": 101
   },
-  "splice-closure-highlight": {
+  "splice-closure": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 96,
     "y": 101
   },
-  "splice-closure-purple": {
+  "splice-closure-highlight": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 120,
+    "y": 101
+  },
+  "splice-closure-purple": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 144,
+    "y": 101
+  },
+  "star-black": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 168,
     "y": 101
   }
 }
