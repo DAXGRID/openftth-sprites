@@ -24,21 +24,21 @@
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 0,
+    "x": 72,
     "y": 375
   },
   "cabinet-small-highlight": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 45,
+    "x": 117,
     "y": 375
   },
   "cabinet-small-purple": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 90,
+    "x": 162,
     "y": 375
   },
   "central-office-small": {
@@ -87,22 +87,22 @@
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 360,
+    "x": 432,
     "y": 375
   },
   "conduit-closure-highlight": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 420,
+    "x": 492,
     "y": 375
   },
   "conduit-closure-purple": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 480,
-    "y": 375
+    "x": 0,
+    "y": 447
   },
   "drain-1": {
     "height": 72,
@@ -122,21 +122,21 @@
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 135,
+    "x": 207,
     "y": 375
   },
   "hand-hole-highlight": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 210,
+    "x": 282,
     "y": 375
   },
   "hand-hole-purple": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 285,
+    "x": 357,
     "y": 375
   },
   "house-1": {
@@ -264,5 +264,12 @@
     "width": 72,
     "x": 504,
     "y": 303
+  },
+  "triangle-black": {
+    "height": 72,
+    "pixelRatio": 3,
+    "width": 72,
+    "x": 0,
+    "y": 375
   }
 }
