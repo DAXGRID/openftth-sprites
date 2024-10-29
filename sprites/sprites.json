@@ -265,6 +265,20 @@
     "x": 168,
     "y": 101
   },
+  "stripes_brown": {
+    "height": 1,
+    "pixelRatio": 1,
+    "width": 1,
+    "x": 20,
+    "y": 149
+  },
+  "stripes_green": {
+    "height": 1,
+    "pixelRatio": 1,
+    "width": 1,
+    "x": 21,
+    "y": 149
+  },
   "triangle-black": {
     "height": 24,
     "pixelRatio": 1,
