@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#ffffff" />
+  <!-- Transparent background (no <rect> element) -->
   <g fill="#007bff">
     <!-- First row -->
     <circle cx="10" cy="10" r="5" />
@@ -7,29 +7,64 @@
     <circle cx="50" cy="10" r="5" />
     <circle cx="70" cy="10" r="5" />
     <circle cx="90" cy="10" r="5" />
+    <circle cx="110" cy="10" r="5" />
+    <circle cx="130" cy="10" r="5" />
+    <circle cx="150" cy="10" r="5" />
+    <circle cx="170" cy="10" r="5" />
+    <circle cx="190" cy="10" r="5" />
     <!-- Second row -->
     <circle cx="10" cy="30" r="5" />
     <circle cx="30" cy="30" r="5" />
     <circle cx="50" cy="30" r="5" />
     <circle cx="70" cy="30" r="5" />
     <circle cx="90" cy="30" r="5" />
+    <circle cx="110" cy="30" r="5" />
+    <circle cx="130" cy="30" r="5" />
+    <circle cx="150" cy="30" r="5" />
+    <circle cx="170" cy="30" r="5" />
+    <circle cx="190" cy="30" r="5" />
     <!-- Third row -->
     <circle cx="10" cy="50" r="5" />
     <circle cx="30" cy="50" r="5" />
     <circle cx="50" cy="50" r="5" />
     <circle cx="70" cy="50" r="5" />
     <circle cx="90" cy="50" r="5" />
+    <circle cx="110" cy="50" r="5" />
+    <circle cx="130" cy="50" r="5" />
+    <circle cx="150" cy="50" r="5" />
+    <circle cx="170" cy="50" r="5" />
+    <circle cx="190" cy="50" r="5" />
     <!-- Fourth row -->
     <circle cx="10" cy="70" r="5" />
     <circle cx="30" cy="70" r="5" />
     <circle cx="50" cy="70" r="5" />
     <circle cx="70" cy="70" r="5" />
     <circle cx="90" cy="70" r="5" />
-    <!-- Fifth row -->
+    <circle cx="110" cy="70" r="5" />
+    <circle cx="130" cy="70" r="5" />
+    <circle cx="150" cy="70" r="5" />
+    <circle cx="170" cy="70" r="5" />
+    <circle cx="190" cy="70" r="5" />
+    <!-- Additional rows (5th, 6th, etc.) -->
     <circle cx="10" cy="90" r="5" />
     <circle cx="30" cy="90" r="5" />
     <circle cx="50" cy="90" r="5" />
     <circle cx="70" cy="90" r="5" />
     <circle cx="90" cy="90" r="5" />
+    <circle cx="110" cy="90" r="5" />
+    <circle cx="130" cy="90" r="5" />
+    <circle cx="150" cy="90" r="5" />
+    <circle cx="170" cy="90" r="5" />
+    <circle cx="190" cy="90" r="5" />
+    <circle cx="10" cy="110" r="5" />
+    <circle cx="30" cy="110" r="5" />
+    <circle cx="50" cy="110" r="5" />
+    <circle cx="70" cy="110" r="5" />
+    <circle cx="90" cy="110" r="5" />
+    <circle cx="110" cy="110" r="5" />
+    <circle cx="130" cy="110" r="5" />
+    <circle cx="150" cy="110" r="5" />
+    <circle cx="170" cy="110" r="5" />
+    <circle cx="190" cy="110" r="5" />
   </g>
 </svg>
