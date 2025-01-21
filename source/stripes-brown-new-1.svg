@@ -1,47 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
   <!-- Transparent background (no <rect> element) -->
-  <g fill="#007bff">
+  <g stroke="brown" stroke-width="2">
     <!-- First row -->
-    <circle cx="2" cy="2" r="2" />
-    <circle cx="6" cy="2" r="2" />
-    <circle cx="10" cy="2" r="2" />
-    <circle cx="14" cy="2" r="2" />
-    <circle cx="18" cy="2" r="2" />
-    <circle cx="22" cy="2" r="2" />
+    <line x1="2" y1="2" x2="22" y2="2" />
     <!-- Second row -->
-    <circle cx="2" cy="6" r="2" />
-    <circle cx="6" cy="6" r="2" />
-    <circle cx="10" cy="6" r="2" />
-    <circle cx="14" cy="6" r="2" />
-    <circle cx="18" cy="6" r="2" />
-    <circle cx="22" cy="6" r="2" />
+    <line x1="2" y1="6" x2="22" y2="6" />
     <!-- Third row -->
-    <circle cx="2" cy="10" r="2" />
-    <circle cx="6" cy="10" r="2" />
-    <circle cx="10" cy="10" r="2" />
-    <circle cx="14" cy="10" r="2" />
-    <circle cx="18" cy="10" r="2" />
-    <circle cx="22" cy="10" r="2" />
+    <line x1="2" y1="10" x2="22" y2="10" />
     <!-- Fourth row -->
-    <circle cx="2" cy="14" r="2" />
-    <circle cx="6" cy="14" r="2" />
-    <circle cx="10" cy="14" r="2" />
-    <circle cx="14" cy="14" r="2" />
-    <circle cx="18" cy="14" r="2" />
-    <circle cx="22" cy="14" r="2" />
+    <line x1="2" y1="14" x2="22" y2="14" />
     <!-- Fifth row -->
-    <circle cx="2" cy="18" r="2" />
-    <circle cx="6" cy="18" r="2" />
-    <circle cx="10" cy="18" r="2" />
-    <circle cx="14" cy="18" r="2" />
-    <circle cx="18" cy="18" r="2" />
-    <circle cx="22" cy="18" r="2" />
+    <line x1="2" y1="18" x2="22" y2="18" />
     <!-- Sixth row -->
-    <circle cx="2" cy="22" r="2" />
-    <circle cx="6" cy="22" r="2" />
-    <circle cx="10" cy="22" r="2" />
-    <circle cx="14" cy="22" r="2" />
-    <circle cx="18" cy="22" r="2" />
-    <circle cx="22" cy="22" r="2" />
+    <line x1="2" y1="22" x2="22" y2="22" />
+    <!-- First column -->
+    <line x1="2" y1="2" x2="2" y2="22" />
+    <!-- Second column -->
+    <line x1="6" y1="2" x2="6" y2="22" />
+    <!-- Third column -->
+    <line x1="10" y1="2" x2="10" y2="22" />
+    <!-- Fourth column -->
+    <line x1="14" y1="2" x2="14" y2="22" />
+    <!-- Fifth column -->
+    <line x1="18" y1="2" x2="18" y2="22" />
+    <!-- Sixth column -->
+    <line x1="22" y1="2" x2="22" y2="22" />
   </g>
 </svg>
