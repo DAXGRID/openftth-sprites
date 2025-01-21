@@ -3,210 +3,210 @@
     "height": 81,
     "pixelRatio": 3,
     "width": 75,
-    "x": 510,
+    "x": 750,
     "y": 0
   },
   "cabinet-big-highlight": {
     "height": 81,
     "pixelRatio": 3,
     "width": 75,
-    "x": 585,
+    "x": 825,
     "y": 0
   },
   "cabinet-big-purple": {
     "height": 81,
     "pixelRatio": 3,
     "width": 75,
-    "x": 0,
-    "y": 360
+    "x": 900,
+    "y": 0
   },
   "cabinet-small": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 216,
-    "y": 585
+    "x": 1143,
+    "y": 600
   },
   "cabinet-small-highlight": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 261,
-    "y": 585
+    "x": 936,
+    "y": 672
   },
   "cabinet-small-purple": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 306,
-    "y": 585
+    "x": 981,
+    "y": 672
   },
   "central-office-small": {
     "height": 72,
     "pixelRatio": 3,
     "width": 135,
-    "x": 75,
-    "y": 360
+    "x": 975,
+    "y": 0
   },
   "central-office-small-highlight": {
     "height": 72,
     "pixelRatio": 3,
     "width": 135,
-    "x": 210,
-    "y": 360
+    "x": 0,
+    "y": 600
   },
   "circle-2": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 345,
-    "y": 360
+    "x": 135,
+    "y": 600
   },
   "circle-3": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 417,
-    "y": 360
+    "x": 207,
+    "y": 600
   },
   "circle-bolt": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 489,
-    "y": 360
+    "x": 279,
+    "y": 600
   },
   "circle-with-m-1": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 561,
-    "y": 360
+    "x": 351,
+    "y": 600
   },
   "conduit-closure": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 576,
-    "y": 585
+    "x": 75,
+    "y": 744
   },
   "conduit-closure-highlight": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 636,
-    "y": 585
+    "x": 135,
+    "y": 744
   },
   "conduit-closure-purple": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 660,
-    "y": 0
+    "x": 195,
+    "y": 744
   },
   "drain-1": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 633,
-    "y": 360
+    "x": 423,
+    "y": 600
   },
   "drain-2": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 0,
-    "y": 441
+    "x": 495,
+    "y": 600
   },
   "hand-hole": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 351,
-    "y": 585
+    "x": 1026,
+    "y": 672
   },
   "hand-hole-highlight": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 426,
-    "y": 585
+    "x": 1101,
+    "y": 672
   },
   "hand-hole-purple": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 501,
-    "y": 585
+    "x": 0,
+    "y": 744
   },
   "house-1": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 72,
-    "y": 441
+    "x": 567,
+    "y": 600
   },
   "house-1-gray": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 144,
-    "y": 441
+    "x": 639,
+    "y": 600
   },
   "house-1-gray-highlight": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 216,
-    "y": 441
+    "x": 711,
+    "y": 600
   },
   "house-1-highlight": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 288,
-    "y": 441
+    "x": 783,
+    "y": 600
   },
   "house-1-olive": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 360,
-    "y": 441
+    "x": 855,
+    "y": 600
   },
   "house-1-olive-highlight": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 432,
-    "y": 441
+    "x": 927,
+    "y": 600
   },
   "house-2": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 504,
-    "y": 441
+    "x": 999,
+    "y": 600
   },
   "house-3": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 576,
-    "y": 441
+    "x": 1071,
+    "y": 600
   },
   "house-4": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 648,
-    "y": 441
+    "x": 1110,
+    "y": 0
   },
   "planned-dashed-circle": {
     "height": 150,
     "pixelRatio": 3,
     "width": 150,
-    "x": 360,
+    "x": 600,
     "y": 0
   },
   "questionmark-black": {
@@ -214,68 +214,68 @@
     "pixelRatio": 3,
     "width": 72,
     "x": 0,
-    "y": 513
+    "y": 672
   },
   "spiral-1": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
     "x": 72,
-    "y": 513
+    "y": 672
   },
   "spiral-1-highlight": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
     "x": 144,
-    "y": 513
+    "y": 672
   },
   "spiral-1-purple": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
     "x": 216,
-    "y": 513
+    "y": 672
   },
   "splice-closure": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
     "x": 288,
-    "y": 513
+    "y": 672
   },
   "splice-closure-highlight": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
     "x": 360,
-    "y": 513
+    "y": 672
   },
   "splice-closure-purple": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
     "x": 432,
-    "y": 513
+    "y": 672
   },
   "star-black": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
     "x": 504,
-    "y": 513
+    "y": 672
   },
   "stripes-brown-2": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
     "x": 576,
-    "y": 513
+    "y": 672
   },
   "stripes-brown-new-1": {
-    "height": 360,
+    "height": 600,
     "pixelRatio": 3,
-    "width": 360,
+    "width": 600,
     "x": 0,
     "y": 0
   },
@@ -284,41 +284,41 @@
     "pixelRatio": 3,
     "width": 72,
     "x": 648,
-    "y": 513
+    "y": 672
   },
   "stripes-green-new-1": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 0,
-    "y": 585
+    "x": 720,
+    "y": 672
   },
   "stripes-green-new-2": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 72,
-    "y": 585
+    "x": 792,
+    "y": 672
   },
   "stripes_brown": {
     "height": 3,
     "pixelRatio": 3,
     "width": 3,
-    "x": 696,
-    "y": 585
+    "x": 255,
+    "y": 744
   },
   "stripes_green": {
     "height": 3,
     "pixelRatio": 3,
     "width": 3,
-    "x": 699,
-    "y": 585
+    "x": 258,
+    "y": 744
   },
   "triangle-black": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 144,
-    "y": 585
+    "x": 864,
+    "y": 672
   }
 }
