@@ -24,21 +24,21 @@
     "height": 23,
     "pixelRatio": 1,
     "width": 15,
-    "x": 48,
+    "x": 144,
     "y": 125
   },
   "cabinet-small-highlight": {
     "height": 23,
     "pixelRatio": 1,
     "width": 15,
-    "x": 63,
+    "x": 159,
     "y": 125
   },
   "cabinet-small-purple": {
     "height": 23,
     "pixelRatio": 1,
     "width": 15,
-    "x": 78,
+    "x": 174,
     "y": 125
   },
   "central-office-small": {
@@ -87,21 +87,21 @@
     "height": 12,
     "pixelRatio": 1,
     "width": 20,
-    "x": 168,
-    "y": 125
+    "x": 75,
+    "y": 149
   },
   "conduit-closure-highlight": {
     "height": 12,
     "pixelRatio": 1,
     "width": 20,
-    "x": 0,
+    "x": 95,
     "y": 149
   },
   "conduit-closure-purple": {
     "height": 12,
     "pixelRatio": 1,
     "width": 20,
-    "x": 20,
+    "x": 115,
     "y": 149
   },
   "drain-1": {
@@ -122,22 +122,22 @@
     "height": 23,
     "pixelRatio": 1,
     "width": 25,
-    "x": 93,
-    "y": 125
+    "x": 0,
+    "y": 149
   },
   "hand-hole-highlight": {
     "height": 23,
     "pixelRatio": 1,
     "width": 25,
-    "x": 118,
-    "y": 125
+    "x": 25,
+    "y": 149
   },
   "hand-hole-purple": {
     "height": 23,
     "pixelRatio": 1,
     "width": 25,
-    "x": 143,
-    "y": 125
+    "x": 50,
+    "y": 149
   },
   "house-1": {
     "height": 24,
@@ -272,25 +272,53 @@
     "x": 0,
     "y": 125
   },
+  "stripes-brown-new-1": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 24,
+    "y": 125
+  },
+  "stripes-brown-new-2": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 48,
+    "y": 125
+  },
+  "stripes-green-new-1": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
+    "y": 125
+  },
+  "stripes-green-new-2": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 96,
+    "y": 125
+  },
   "stripes_brown": {
     "height": 1,
     "pixelRatio": 1,
     "width": 1,
-    "x": 40,
+    "x": 135,
     "y": 149
   },
   "stripes_green": {
     "height": 1,
     "pixelRatio": 1,
     "width": 1,
-    "x": 41,
+    "x": 136,
     "y": 149
   },
   "triangle-black": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
-    "x": 24,
+    "x": 120,
     "y": 125
   }
 }

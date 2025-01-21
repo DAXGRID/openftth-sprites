@@ -24,21 +24,21 @@
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 144,
+    "x": 432,
     "y": 375
   },
   "cabinet-small-highlight": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 189,
+    "x": 477,
     "y": 375
   },
   "cabinet-small-purple": {
     "height": 69,
     "pixelRatio": 3,
     "width": 45,
-    "x": 234,
+    "x": 522,
     "y": 375
   },
   "central-office-small": {
@@ -87,21 +87,21 @@
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 504,
-    "y": 375
+    "x": 225,
+    "y": 447
   },
   "conduit-closure-highlight": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 0,
+    "x": 285,
     "y": 447
   },
   "conduit-closure-purple": {
     "height": 36,
     "pixelRatio": 3,
     "width": 60,
-    "x": 60,
+    "x": 345,
     "y": 447
   },
   "drain-1": {
@@ -122,22 +122,22 @@
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 279,
-    "y": 375
+    "x": 0,
+    "y": 447
   },
   "hand-hole-highlight": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 354,
-    "y": 375
+    "x": 75,
+    "y": 447
   },
   "hand-hole-purple": {
     "height": 69,
     "pixelRatio": 3,
     "width": 75,
-    "x": 429,
-    "y": 375
+    "x": 150,
+    "y": 447
   },
   "house-1": {
     "height": 72,
@@ -272,25 +272,53 @@
     "x": 0,
     "y": 375
   },
+  "stripes-brown-new-1": {
+    "height": 72,
+    "pixelRatio": 3,
+    "width": 72,
+    "x": 72,
+    "y": 375
+  },
+  "stripes-brown-new-2": {
+    "height": 72,
+    "pixelRatio": 3,
+    "width": 72,
+    "x": 144,
+    "y": 375
+  },
+  "stripes-green-new-1": {
+    "height": 72,
+    "pixelRatio": 3,
+    "width": 72,
+    "x": 216,
+    "y": 375
+  },
+  "stripes-green-new-2": {
+    "height": 72,
+    "pixelRatio": 3,
+    "width": 72,
+    "x": 288,
+    "y": 375
+  },
   "stripes_brown": {
     "height": 3,
     "pixelRatio": 3,
     "width": 3,
-    "x": 120,
+    "x": 405,
     "y": 447
   },
   "stripes_green": {
     "height": 3,
     "pixelRatio": 3,
     "width": 3,
-    "x": 123,
+    "x": 408,
     "y": 447
   },
   "triangle-black": {
     "height": 72,
     "pixelRatio": 3,
     "width": 72,
-    "x": 72,
+    "x": 360,
     "y": 375
   }
 }
