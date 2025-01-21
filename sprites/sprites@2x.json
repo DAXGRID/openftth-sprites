@@ -24,21 +24,21 @@
     "height": 46,
     "pixelRatio": 2,
     "width": 30,
-    "x": 240,
+    "x": 288,
     "y": 250
   },
   "cabinet-small-highlight": {
     "height": 46,
     "pixelRatio": 2,
     "width": 30,
-    "x": 270,
+    "x": 318,
     "y": 250
   },
   "cabinet-small-purple": {
     "height": 46,
     "pixelRatio": 2,
     "width": 30,
-    "x": 300,
+    "x": 348,
     "y": 250
   },
   "central-office-small": {
@@ -87,21 +87,21 @@
     "height": 24,
     "pixelRatio": 2,
     "width": 40,
-    "x": 100,
+    "x": 150,
     "y": 298
   },
   "conduit-closure-highlight": {
     "height": 24,
     "pixelRatio": 2,
     "width": 40,
-    "x": 140,
+    "x": 190,
     "y": 298
   },
   "conduit-closure-purple": {
     "height": 24,
     "pixelRatio": 2,
     "width": 40,
-    "x": 180,
+    "x": 230,
     "y": 298
   },
   "drain-1": {
@@ -122,21 +122,21 @@
     "height": 46,
     "pixelRatio": 2,
     "width": 50,
-    "x": 330,
-    "y": 250
+    "x": 0,
+    "y": 298
   },
   "hand-hole-highlight": {
     "height": 46,
     "pixelRatio": 2,
     "width": 50,
-    "x": 0,
+    "x": 50,
     "y": 298
   },
   "hand-hole-purple": {
     "height": 46,
     "pixelRatio": 2,
     "width": 50,
-    "x": 50,
+    "x": 100,
     "y": 298
   },
   "house-1": {
@@ -272,46 +272,53 @@
     "x": 0,
     "y": 250
   },
-  "stripes-brown-new-2": {
+  "stripes-brown-new-1": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 48,
     "y": 250
   },
-  "stripes-green-new-1": {
+  "stripes-brown-new-2": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 96,
     "y": 250
   },
-  "stripes-green-new-2": {
+  "stripes-green-new-1": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 144,
     "y": 250
   },
+  "stripes-green-new-2": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 192,
+    "y": 250
+  },
   "stripes_brown": {
     "height": 2,
     "pixelRatio": 2,
     "width": 2,
-    "x": 220,
+    "x": 270,
     "y": 298
   },
   "stripes_green": {
     "height": 2,
     "pixelRatio": 2,
     "width": 2,
-    "x": 222,
+    "x": 272,
     "y": 298
   },
   "triangle-black": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
+    "x": 240,
     "y": 250
   }
 }
