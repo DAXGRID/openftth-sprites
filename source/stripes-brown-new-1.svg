@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-    xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" viewBox="0 0 100 100" xml:space="preserve">
-    <defs>
-        <pattern id="redDiagonalPattern" patternUnits="userSpaceOnUse" width="10" height="10" patternTransform="rotate(45)">
-            <line x1="0" y1="0" x2="0" y2="10" stroke="red" stroke-width="2" />
-        </pattern>
-    </defs>
-    <rect width="100" height="100" fill="url(#redDiagonalPattern)" />
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <defs>
+    <pattern id="circle-pattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="5" fill="blue" />
+    </pattern>
+  </defs>
+  <rect width="200" height="200" fill="url(#circle-pattern)" />
 </svg>
