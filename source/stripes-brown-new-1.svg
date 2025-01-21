@@ -1,8 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
-  <defs>
-    <pattern id="circle-pattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="10" cy="10" r="5" fill="blue" />
-    </pattern>
-  </defs>
-  <rect width="200" height="200" fill="url(#circle-pattern)" />
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="120" height="120" viewBox="0 0 120 120" xml:space="preserve">
+  <desc>Repeating pattern without using the pattern syntax</desc>
+  <g>
+    <!-- Row 1 -->
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="10,5 20,0 30,5 20,10" />
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="30,5 40,0 50,5 40,10" />
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="50,5 60,0 70,5 60,10" />
+    
+    <!-- Row 2 -->
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="0,15 10,10 20,15 10,20" />
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="20,15 30,10 40,15 30,20" />
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="40,15 50,10 60,15 50,20" />
+    
+    <!-- Row 3 -->
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="10,25 20,20 30,25 20,30" />
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="30,25 40,20 50,25 40,30" />
+    <polygon style="fill: rgb(117,63,4); opacity: 0.39;" points="50,25 60,20 70,25 60,30" />
+  </g>
 </svg>
