@@ -15,7 +15,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - "SHA256:c0KoGeAQaTO+8c8bqeEq9jhj9vBA4qNmcGAPADp5hos"
+            - "SHA256:+oNFTV9kyr0OZAaj8QfQ/qkDV6HXqAUtXf3q5VuG29A"
       - run:
           name: key-scan
           command: ssh-keyscan github.com >> ~/.ssh/known_hosts
