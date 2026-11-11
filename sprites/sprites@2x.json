@@ -3,211 +3,218 @@
     "height": 48,
     "pixelRatio": 2,
     "width": 90,
-    "x": 150,
+    "x": 262,
+    "y": 100
+  },
+  "alert-highlight": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 112,
+    "x": 0,
     "y": 100
   },
   "cabinet-big": {
     "height": 54,
     "pixelRatio": 2,
     "width": 50,
-    "x": 0,
+    "x": 112,
     "y": 100
   },
   "cabinet-big-highlight": {
     "height": 54,
     "pixelRatio": 2,
     "width": 50,
-    "x": 50,
+    "x": 162,
     "y": 100
   },
   "cabinet-big-purple": {
     "height": 54,
     "pixelRatio": 2,
     "width": 50,
-    "x": 100,
+    "x": 212,
     "y": 100
   },
   "cabinet-small": {
     "height": 46,
     "pixelRatio": 2,
     "width": 30,
-    "x": 336,
-    "y": 250
+    "x": 48,
+    "y": 304
   },
   "cabinet-small-highlight": {
     "height": 46,
     "pixelRatio": 2,
     "width": 30,
-    "x": 366,
-    "y": 250
+    "x": 78,
+    "y": 304
   },
   "cabinet-small-purple": {
     "height": 46,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
-    "y": 298
+    "x": 108,
+    "y": 304
   },
   "central-office-small": {
-    "height": 48,
-    "pixelRatio": 2,
-    "width": 90,
-    "x": 240,
-    "y": 100
-  },
-  "central-office-small-highlight": {
     "height": 48,
     "pixelRatio": 2,
     "width": 90,
     "x": 200,
     "y": 0
   },
+  "central-office-small-highlight": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 90,
+    "x": 290,
+    "y": 0
+  },
   "circle-2": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 330,
+    "x": 352,
     "y": 100
   },
   "circle-3": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 290,
-    "y": 0
+    "x": 0,
+    "y": 160
   },
   "circle-bolt": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 338,
-    "y": 0
+    "x": 48,
+    "y": 160
   },
   "circle-with-m-1": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 0,
-    "y": 154
+    "x": 96,
+    "y": 160
   },
   "conduit-closure": {
     "height": 24,
     "pixelRatio": 2,
     "width": 40,
-    "x": 180,
-    "y": 298
+    "x": 288,
+    "y": 304
   },
   "conduit-closure-highlight": {
     "height": 24,
     "pixelRatio": 2,
     "width": 40,
-    "x": 220,
-    "y": 298
+    "x": 328,
+    "y": 304
   },
   "conduit-closure-purple": {
     "height": 24,
     "pixelRatio": 2,
     "width": 40,
-    "x": 260,
-    "y": 298
+    "x": 0,
+    "y": 352
   },
   "drain-1": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
-    "y": 154
+    "x": 144,
+    "y": 160
   },
   "drain-2": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
-    "y": 154
+    "x": 192,
+    "y": 160
   },
   "hand-hole": {
     "height": 46,
     "pixelRatio": 2,
     "width": 50,
-    "x": 30,
-    "y": 298
+    "x": 138,
+    "y": 304
   },
   "hand-hole-highlight": {
     "height": 46,
     "pixelRatio": 2,
     "width": 50,
-    "x": 80,
-    "y": 298
+    "x": 188,
+    "y": 304
   },
   "hand-hole-purple": {
     "height": 46,
     "pixelRatio": 2,
     "width": 50,
-    "x": 130,
-    "y": 298
+    "x": 238,
+    "y": 304
   },
   "house-1": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
-    "y": 154
+    "x": 240,
+    "y": 160
   },
   "house-1-gray": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
-    "y": 154
+    "x": 288,
+    "y": 160
   },
   "house-1-gray-highlight": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 240,
-    "y": 154
+    "x": 336,
+    "y": 160
   },
   "house-1-highlight": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 288,
-    "y": 154
+    "x": 0,
+    "y": 208
   },
   "house-1-olive": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 336,
-    "y": 154
+    "x": 48,
+    "y": 208
   },
   "house-1-olive-highlight": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 0,
-    "y": 202
+    "x": 96,
+    "y": 208
   },
   "house-2": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
-    "y": 202
+    "x": 144,
+    "y": 208
   },
   "house-3": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
-    "y": 202
+    "x": 192,
+    "y": 208
   },
   "house-4": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
-    "y": 202
+    "x": 240,
+    "y": 208
   },
   "planned-dashed-circle": {
     "height": 100,
@@ -227,77 +234,77 @@
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
-    "y": 202
+    "x": 288,
+    "y": 208
   },
   "spiral-1": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 240,
-    "y": 202
+    "x": 336,
+    "y": 208
   },
   "spiral-1-highlight": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 288,
-    "y": 202
+    "x": 0,
+    "y": 256
   },
   "spiral-1-purple": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 336,
-    "y": 202
+    "x": 48,
+    "y": 256
   },
   "splice-closure": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 0,
-    "y": 250
+    "x": 96,
+    "y": 256
   },
   "splice-closure-highlight": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 48,
-    "y": 250
+    "x": 144,
+    "y": 256
   },
   "splice-closure-purple": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 96,
-    "y": 250
+    "x": 192,
+    "y": 256
   },
   "star-black": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 144,
-    "y": 250
+    "x": 240,
+    "y": 256
   },
   "stripes-brown-1": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 192,
-    "y": 250
+    "x": 288,
+    "y": 256
   },
   "stripes-green-1": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 240,
-    "y": 250
+    "x": 336,
+    "y": 256
   },
   "triangle-black": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
-    "x": 288,
-    "y": 250
+    "x": 0,
+    "y": 304
   }
 }
